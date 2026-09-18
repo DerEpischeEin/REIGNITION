@@ -1,0 +1,3 @@
+displayName = REIGNITION
+author = The Reignition team
+version = 0.1
